@@ -1,3 +1,4 @@
+#This code will use index.html in templates folder to create a card using the CSS (cascading style sheets)
 from flask import Flask
 from flask import render_template
 
